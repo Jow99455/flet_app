@@ -1,0 +1,13 @@
+filelock==3.16.0
+flet==0.24.1
+flet-core==0.24.1
+flet-runtime==0.24.1
+fonttools==4.53.1
+httpcore==1.0.5
+httplib2==0.22.0
+httptools==0.6.1
+httpx==0.27.2
+huggingface-hub==0.24.7
+packaging==23.2
+pillow==10.4.0
+requests==2.32.3
