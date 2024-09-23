@@ -4,9 +4,11 @@
 To run the app:
 
 1 /////////////
+
 clone the project into a folder
 
 2 ////////////
+
 cd to thes folder create a assets folder then inside assets create images folder
 
 3 ////////////
