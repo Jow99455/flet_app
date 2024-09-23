@@ -3,18 +3,14 @@
 
 To run the app:
 
-1/
-cd app3
-2/
 
+clone the project into a folder
+cd to thes folder
+create a assets folder 
+then inside assets create images folder
 run (pip install -r requirements.txt)
-
-4/
 Get your hugging face token  and replace it in the main.py HF_TOKEN
-
-3/
-
-run ( flet run .)
+run (flet run .)
 
 
 
